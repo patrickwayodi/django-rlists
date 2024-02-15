@@ -3,7 +3,7 @@ django-rlists
 
 
 Django Rlists is a web application for processing the
-[FIDE rating lists](https://en.wikipedia.org/FIDE) of chess players. It's written in
+[FIDE rating lists](https://en.wikipedia.org/wiki/FIDE) of chess players. It's written in
 [Python](https://www.python.org) using [Django](https://www.djangoproject.com) and
 [chart.js](https://www.chartjs.org).
 
@@ -33,7 +33,7 @@ Copyright and License
 
 
 Django Rlists is free software: you can redistribute it and/or modify it under the
-terms of the [GNU General Public License](https://www.github.com/patrickwayodi/django-rlists/blob/gh-pages/LICENSE)
+terms of the [GNU Affero General Public License](https://github.com/patrickwayodi/django-rlists/blob/main/LICENSE)
 license as published by the Free Software Foundation, either version 3 of the License,
 or (at your option) any later version.
 
